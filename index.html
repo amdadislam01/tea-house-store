@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tea House</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <!-- font Awsome CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
         integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
@@ -15,7 +16,29 @@
     <!-- Font Awesome (for icons) -->
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
-<body>
-    
+<body class="font-[Manrope]">
+    <!-- Hero Section -->
+    <section class="w-[80%] mx-auto flex justify-between items-center">
+        <div class="">
+            <h3 class="text-8xl font-bold">It's good <br> tea time at The <br> Tea House</h3>
+            <p class="text-1xl text-[#777777] mt-10">Tea and Botanical Solutions Supplier Give Optimum Satisfaction <br>
+                To Your Taste Buds.</p>
+            <button
+                class="w-[200px] h-[64px] mt-10 text-white font-bold border rounded-lg p-2 flex justify-center gap-[5px] items-center text-center bg-gradient-to-r from-amber-500 to-pink-500">Explore
+                More <span class="flex justify-end"><img src="images/arrow.png" alt="" class=""></span></button>
+        </div>
+        <div class="">
+            <img src="images/banner.png" alt="" class="mt-20 w-[655px] h-[500px]">
+            <div
+                class="flex justify-center items-center border-white rounded-lg  shadow-lg w-[255px] h-[100px] relative  top-[-90%] left-[34%] translate-x-[-40%] translate-y-[-90%] bg-white">
+                <span><i class="fa-solid fa-star-of-david fa-flip-both fa-2xl mr-5"
+                        style="color: #FFD43B;"></i></i></span>
+                <span>
+                    <h4 class="text-2xl font-extrabold">5.00</h4>
+                    <p class="text-[#777777]">Trust Pilot Ratings</p>
+                </span>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
