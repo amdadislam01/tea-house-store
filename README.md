@@ -27,7 +27,7 @@ A beautifully crafted and responsive **Tea Shop Landing Page** built with **HTML
 
 ## 📸 Screenshot
 
-<img src="https://i.postimg.cc/Wz7SCsgD/tea-house-screenshot.png" alt="Tea House Store Screenshot" width="1000"/>
+<img src="https://amdadislam01.github.io/tea-house-store/" alt="Tea House Store Screenshot" width="1000"/>
 
 
 ---
