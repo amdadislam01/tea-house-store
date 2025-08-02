@@ -1,4 +1,4 @@
-# 🍵 Tea House Store
+# 🍵 Tea House Stor
 
 A beautifully crafted and responsive **Tea Shop Landing Page** built with **HTML** and **Tailwind CSS**. This project showcases a modern UI for promoting tea products and brand identity with elegance and simplicity.
 
